@@ -7,6 +7,8 @@ Adapun library yang digunakan yaitu SDWebImage.
 
 Note: Jangan lupa untuk pod install -->
 
+[BookStore DOWNLOAD](https://github.com/eldirb21/BookStore/releases)
+
 Here are the views of the application:
 
 <p align="center">
